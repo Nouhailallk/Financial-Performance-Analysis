@@ -218,6 +218,9 @@ The country analysis identifies the United States and Canada among the leading c
 
 The geographical breakdown provides a basis for comparing market contributions and identifying opportunities for further investigation.
 
+<img width="764" height="385" alt="image" src="https://github.com/user-attachments/assets/c1627fc3-1972-47dc-a629-9fd5bdca85cd" />
+<img width="758" height="384" alt="image" src="https://github.com/user-attachments/assets/65282e3e-2853-4d8c-8ba4-2c12e9ec3448" />
+
 ### 8.4 Product Performance
 
 The Top 5 product analysis highlights the products generating the highest profit.
@@ -273,6 +276,8 @@ The scenario model follows this financial logic:
 Users can modify the assumptions through interactive sliders and immediately observe the impact on forecast financial indicators.
 
 **Important:** This is a What-If sensitivity analysis based on user-defined assumptions. It is not a statistical forecasting model and does not account for factors such as price elasticity, product mix changes, or external economic conditions.
+<img width="120" height="477" alt="image" src="https://github.com/user-attachments/assets/d70815c7-060b-418d-b93f-23d1b1d21cc5" />
+
 
 ## 11. Project Limitations
 
