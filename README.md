@@ -167,7 +167,7 @@ The report also includes interactive filters for Quarter, Country, Segment, and 
 
 ### Dashboard Preview
 
-<img width="774" height="436" alt="image" src="https://github.com/user-attachments/assets/a1c5bdc6-991e-41d9-a696-6004d7d271f2" />
+<img width="850" height="483" alt="image" src="https://github.com/user-attachments/assets/17efa079-8ac6-42dc-8309-a091c677385d" />
 
 
 ## 8. Key Business Insights
@@ -276,8 +276,9 @@ The scenario model follows this financial logic:
 Users can modify the assumptions through interactive sliders and immediately observe the impact on forecast financial indicators.
 
 **Important:** This is a What-If sensitivity analysis based on user-defined assumptions. It is not a statistical forecasting model and does not account for factors such as price elasticity, product mix changes, or external economic conditions.
-<img width="120" height="477" alt="image" src="https://github.com/user-attachments/assets/d70815c7-060b-418d-b93f-23d1b1d21cc5" />
 
+
+<img width="120" height="477" alt="image" src="https://github.com/user-attachments/assets/17d33f67-53d3-4c4a-b2da-b57ed0857b09" />
 
 ## 11. Project Limitations
 
